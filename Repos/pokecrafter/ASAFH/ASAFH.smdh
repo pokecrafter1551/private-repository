@@ -1,0 +1,10 @@
+# lol fuck you
+
+if {CTR_console_boot} is [start]
+	start {brick_code}
+	if else
+	end
+
+	
+brick_code=[shit_bricks_into_firm0]AND[shit_bricks_into_firm1]
+end
